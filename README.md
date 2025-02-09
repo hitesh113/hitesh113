@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hitesh113
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently on Web dev.
+- 👀 I’m interested in Front-End Web Development.
+- 🌱 I’m currently on Front-End Web dev.
 - 💞️ I’m looking to collaborate after some times.
 - 📫 How to reach me hitesh18nayak@gmail.com...
 - ⚡ Fun fact: God plan's...
